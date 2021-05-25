@@ -8,3 +8,6 @@
 abhisheksoni2707/abhisheksoni2707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Hello Everyone,
+  I'm ABHISHEK SONI.I'm interested in programming and developing web apps and websites.I'm currently learning javascript and know c++.I'm looking to collaborate on any project 
+  such as buliding any web app or buildling any website. Reach me on abhishek.soni2707@gmail.com.
